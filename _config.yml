@@ -1,7 +1,7 @@
 name: AshtonFellerTechnologies
 favicon: null
-layout_spectrum: 0.12621865840628743
-typography_spectrum: 0.31586131104268134
+layout_spectrum: 0.39353
+typography_spectrum: 0.58799
 title: Tech AF
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6889369729906321
-  lightness: 0.9850139669142663
-  saturation: 0.10823643626645207
-  rhythmicContrast: 0.9722418659366667
+    - '#000000'
+    - '#404040'
+    - '#d45500'
+    - '#808080'
+    - '#f6c043'
+  brandStrength: 0.5625
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
