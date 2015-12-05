@@ -1,6 +1,6 @@
 name: AshtonFellerTechnologies
 favicon: null
-layout_spectrum: 0.39353
+layout_spectrum: 0.9994
 typography_spectrum: 0.58799
 title: Tech AF
 cta:
@@ -22,8 +22,8 @@ color:
     - '#afdde9'
     - '#485b60'
     - '#c79f00'
-  brandStrength: 0.5625
+  brandStrength: 0.75
   lightness: 0.6875
-  saturation: 0.3125
+  saturation: 0.1875
   rhythmicContrast: 1
 purpose: []
