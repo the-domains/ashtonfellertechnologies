@@ -4,14 +4,21 @@
         <description><![CDATA[Tech AF]]></description>
         <link>http://www.ashtonfellertechnologies.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 20:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 21:15:27 GMT</lastBuildDate>
         <atom:link href="http://www.ashtonfellertechnologies.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where You At? Coming Soon!]]></title>
-            <description><![CDATA[<article><h1>Where You At? Coming Soon!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e17e39e26db1549308ef61d4988224c6574760a2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Where You At? Coming Soon!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aea33e9c5dae657d36d49207ad3bf46cd8da6f49.png"></article>]]></description>
             <link>http://www.ashtonfellertechnologies.com/where-you-at-coming-soon/index.html</link>
             <guid isPermaLink="false">06467797-f31c-4c3e-bb85-f2419f133f4a</guid>
             <pubDate>Sun, 06 Dec 2015 20:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Grid: Windows Phone</p>]]></description>
+            <link>http://www.ashtonfellertechnologies.com/a394108e-aad2-4f26-af0b-5f063aceca97/index.html</link>
+            <guid isPermaLink="false">a394108e-aad2-4f26-af0b-5f063aceca97</guid>
+            <pubDate>Sun, 06 Dec 2015 21:14:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
