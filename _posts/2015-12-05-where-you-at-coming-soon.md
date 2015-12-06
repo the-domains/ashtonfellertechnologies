@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A short blurb about where we are at.
-datePublished: '2015-12-06T20:34:58.955Z'
-dateModified: '2015-12-06T20:34:56.186Z'
+datePublished: '2015-12-06T20:37:22.463Z'
+dateModified: '2015-12-06T20:37:18.526Z'
 title: 'Where You At? Coming Soon!'
 author: []
 sourcePath: _posts/2015-12-05-where-you-at-coming-soon.md
@@ -22,7 +22,7 @@ url: where-you-at-coming-soon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b8c1ff-9f63-4221-a395-66e5451fff73.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b9e491-2b71-4b08-9ea1-9d77a7253499.png)
 
 Where You At? Coming Soon!
 
