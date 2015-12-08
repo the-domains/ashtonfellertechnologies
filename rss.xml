@@ -4,7 +4,7 @@
         <description><![CDATA[Tech AF]]></description>
         <link>http://www.ashtonfellertechnologies.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 21:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 19:12:37 GMT</lastBuildDate>
         <atom:link href="http://www.ashtonfellertechnologies.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where You At? Coming Soon!]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.ashtonfellertechnologies.com/where-you-at-coming-soon/index.html</link>
             <guid isPermaLink="false">06467797-f31c-4c3e-bb85-f2419f133f4a</guid>
             <pubDate>Sun, 06 Dec 2015 20:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snap Chat Outages]]></title>
+            <description><![CDATA[<article><h1>Snap Chat Outages</h1><p>Occurring across the globe today, December 8th, 2015...   Ok... so big deal?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81108198dab76524fc4d28c733ea88a854409a90.png"></article>]]></description>
+            <link>http://www.ashtonfellertechnologies.com/snap-chat-outages/index.html</link>
+            <guid isPermaLink="false">a679850d-1da8-43ce-afdc-f4fe92aec6fc</guid>
+            <pubDate>Tue, 08 Dec 2015 19:12:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
