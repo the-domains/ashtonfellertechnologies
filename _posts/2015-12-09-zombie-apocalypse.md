@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-09T22:20:50.007Z'
-dateModified: '2015-12-09T22:18:14.148Z'
+datePublished: '2015-12-09T22:22:45.462Z'
+dateModified: '2015-12-09T22:22:43.379Z'
 title: Zombie Apocalypse
 author: []
 sourcePath: _posts/2015-12-09-zombie-apocalypse.md
