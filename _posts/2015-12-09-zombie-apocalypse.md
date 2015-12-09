@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-09T22:10:34.792Z'
-dateModified: '2015-12-09T22:10:22.961Z'
+datePublished: '2015-12-09T22:20:50.007Z'
+dateModified: '2015-12-09T22:18:14.148Z'
 title: Zombie Apocalypse
 author: []
+sourcePath: _posts/2015-12-09-zombie-apocalypse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-09-zombie-apocalypse.md
-published: true
 url: zombie-apocalypse/index.html
 _type: Article
 
