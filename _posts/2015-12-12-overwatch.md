@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "One of the betas I've played."
-datePublished: '2015-12-12T05:06:27.745Z'
-dateModified: '2015-12-12T05:05:49.051Z'
+datePublished: '2015-12-12T05:06:42.314Z'
+dateModified: '2015-12-12T05:06:40.357Z'
 title: Overwatch
 author: []
 authors: []
