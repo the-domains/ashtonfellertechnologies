@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "I'm a long time player."
-datePublished: '2015-12-22T21:13:08.451Z'
-dateModified: '2015-12-22T21:12:49.123Z'
+datePublished: '2015-12-22T21:16:00.536Z'
+dateModified: '2015-12-22T21:15:58.171Z'
 title: League of Legends
 author: []
 sourcePath: _posts/2015-12-12-league-of-legends.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: league-of-legends/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![All the playable characters and variations on their looks (skins).](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a27012edd146293a72c17703f5e2eae4b1e7dd8.jpg)
