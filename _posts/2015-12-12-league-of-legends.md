@@ -6,26 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I'm a long time player."
-datePublished: '2015-12-12T05:10:23.756Z'
-dateModified: '2015-12-12T05:08:52.356Z'
+datePublished: '2015-12-22T21:12:06.462Z'
+dateModified: '2015-12-22T21:12:03.951Z'
 title: League of Legends
 author: []
+sourcePath: _posts/2015-12-12-league-of-legends.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-league-of-legends.md
-published: true
 url: league-of-legends/index.html
 _type: Article
 
 ---
+![All the playable characters and variations on their looks (skins).](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a27012edd146293a72c17703f5e2eae4b1e7dd8.jpg)
+
 I started playing League of Legends in 2009 and I'm glad it has stuck around because it has serious longevity and game play to back it up.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc18c18-7d86-472e-9cdc-567541a0bc1a.jpg)
-
-Above: All the playable characters and variations on their looks (skins).
-
-Below: An assortment of the blue colored champions.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e2d5beb-1924-4026-8071-ad4548777ce1.png)
+![An assortment of the blue colored champions.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a6d56f1862a0f8b1d646d1d33780e68c9136b0a.png)
