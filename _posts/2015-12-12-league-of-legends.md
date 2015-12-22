@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "I'm a long time player."
-datePublished: '2015-12-22T21:12:06.462Z'
-dateModified: '2015-12-22T21:12:03.951Z'
+datePublished: '2015-12-22T21:13:08.451Z'
+dateModified: '2015-12-22T21:12:49.123Z'
 title: League of Legends
 author: []
 sourcePath: _posts/2015-12-12-league-of-legends.md
