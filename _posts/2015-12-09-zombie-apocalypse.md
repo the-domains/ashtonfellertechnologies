@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-09T22:22:45.462Z'
-dateModified: '2015-12-09T22:22:43.379Z'
+datePublished: '2015-12-22T21:13:47.007Z'
+dateModified: '2015-12-22T21:12:52.087Z'
 title: Zombie Apocalypse
 author: []
 sourcePath: _posts/2015-12-09-zombie-apocalypse.md
