@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:13:47.007Z'
-dateModified: '2015-12-22T21:12:52.087Z'
+datePublished: '2015-12-22T21:16:47.294Z'
+dateModified: '2015-12-22T21:16:45.235Z'
 title: Zombie Apocalypse
 author: []
 sourcePath: _posts/2015-12-09-zombie-apocalypse.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: zombie-apocalypse/index.html
-_type: Article
+_type: WebPage
 
 ---
 7 Days to Die: This game is rad.
