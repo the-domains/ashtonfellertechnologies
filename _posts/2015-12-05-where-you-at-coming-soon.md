@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A short blurb about where we are at.
-datePublished: '2015-12-22T21:18:42.994Z'
-dateModified: '2015-12-22T21:17:05.921Z'
+datePublished: '2015-12-22T21:36:38.402Z'
+dateModified: '2015-12-22T21:36:35.944Z'
 title: 'Where You At? Coming Soon!'
 author: []
 sourcePath: _posts/2015-12-05-where-you-at-coming-soon.md
