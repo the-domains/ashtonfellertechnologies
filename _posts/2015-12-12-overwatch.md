@@ -6,26 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: "One of the betas I've played."
-datePublished: '2015-12-12T05:06:42.314Z'
-dateModified: '2015-12-12T05:06:40.357Z'
+datePublished: '2015-12-22T21:11:10.543Z'
+dateModified: '2015-12-22T21:11:00.832Z'
 title: Overwatch
 author: []
+sourcePath: _posts/2015-12-12-overwatch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-overwatch.md
-published: true
 url: overwatch/index.html
 _type: Article
 
 ---
-The game play is amazing and the art style is modern.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9be6279d-04b3-404f-9e84-a17cea1beadc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9be6279d-04b3-404f-9e84-a17cea1beadc.jpg)
 
-The classic gorilla, Winston.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb8a513eb354c75f1ef8b12d6d4f4cca8be7672c.jpg)
-
-A personal favorite, Hanzo.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cebab432-427d-4f27-b37e-c7bccd8bbd8f.jpg)
+The game play is amazing and the art style is modern.  ![The classic gorilla, Winston.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e2bc2c1c16b605645588eb744eceddcc1112821.jpg)
+![A personal favorite, Hanzo.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0367e0a39f37553b4eb3e09ea44496a167c3375.jpg)
