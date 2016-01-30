@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where will we be when this becomes normal?
-datePublished: '2016-01-30T05:14:50.520Z'
-dateModified: '2016-01-30T05:14:34.892Z'
+datePublished: '2016-01-30T05:33:06.421Z'
+dateModified: '2016-01-30T05:33:03.802Z'
 title: Quantum Tech
 author: []
+sourcePath: _posts/2016-01-30-quantum-tech.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-quantum-tech.md
-published: true
 url: quantum-tech/index.html
 _type: Article
 
