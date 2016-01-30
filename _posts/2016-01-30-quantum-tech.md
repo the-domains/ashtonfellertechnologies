@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where will we be when this becomes normal?
-datePublished: '2016-01-30T05:33:06.460Z'
+datePublished: '2016-01-30T05:33:06.498Z'
 dateModified: '2016-01-30T05:33:03.802Z'
 title: Quantum Tech
 author: []
